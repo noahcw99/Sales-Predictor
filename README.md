@@ -3,6 +3,6 @@ In this Kaggle competition, we will use time-series forecasting to forecast stor
 [Kaggle competition: Store Sales - Time Series Forecasting](https://www.kaggle.com/competitions/store-sales-time-series-forecasting)
 
 TEAM MEMBERS:
-Zoe Coughlan
-Noah Welsh
+Zoe Coughlan,
+Noah Welsh,
 Brian Avila
